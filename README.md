@@ -10,4 +10,4 @@
 #### Testes lógicos com `if`
 
 #### Loopings infinitos
-<div align="center"><img src="https://imgur.com/gJDEGOt.png"></div>
+<div align="left"><img src="https://imgur.com/gJDEGOt.png" width="450px", height="465px"></div>
